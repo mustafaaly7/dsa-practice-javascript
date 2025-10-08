@@ -1,0 +1,13 @@
+{
+  "name": "dsa-practice-javascript",
+  "version": "1.0.0",
+  "description": "DSA practice problems implemented in JavaScript for interview preparation.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node"
+  },
+  "keywords": ["DSA", "JavaScript", "Algorithms", "Coding-Interview", "Practice"],
+  "author": "Muhammad Mustafa Ali (pixel.tocode)",
+  "license": "MIT"
+}
